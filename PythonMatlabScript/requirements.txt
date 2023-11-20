@@ -1,0 +1,9 @@
+This is a requirements list for the Python to Matlab Script.
+Here is an outline of the packages (and their respective versions) you need for running the script as of the latest version:
+
+Python 3.11 or later https://www.python.org/downloads/
+scipy 1.10.1 or later https://scipy.github.io/devdocs/index.html
+numpy 1.24.3 or later https://numpy.org/
+pandas 2.0.2 or later https://pandas.pydata.org/
+h5py 3.9.0 or later https://docs.h5py.org/en/stable/build.html
+QtPy 2.4.1 or later https://pypi.org/project/QtPy/

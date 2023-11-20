@@ -1,0 +1,2 @@
+-Separate the two repositories
+-Make a generic import method that takes the file type (HDF5 or standard .mat) which is used in Liz's project and Christian's project
