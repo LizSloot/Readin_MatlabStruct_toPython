@@ -1,9 +1,8 @@
 """
 This is the entry point of the app MatToPy tool written by Teodor Ticu. Make sure all modules needed are in the same directory before running
 and make sure all necessary python packages are installed, otherwise the app might crash. The Readme on GitHub specifies all necessary packages.
-This is still a work in progress, as some functionality is yet to be added.
+This is an, as of yet, unoptimized version.
 """
-
 
 import h5py
 import numpy as np
