@@ -238,8 +238,3 @@ class MatToPyHDF5(MatToPy_Base):
         except Exception as e:
             print(f"Error exploring or accessing HDF5 data: {e}")
         return None
-        
-
-#TODO: Test all of the above, see how it works. Try for BOTH file types and for longer inputs (so first subject ankle angle in x dimension all stried for instance)
-#      Idea: See how many subfields each field has and make it possible to take inputs from all of those (eg: first subject -> Left side -> ankle angle -> x direction -> all strides)
-#      and print out exactly what that is. Alternatively, try making a GUI with drop-down boxes (I think this is the best choice for people not used to python console). 
